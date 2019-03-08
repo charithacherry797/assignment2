@@ -8,7 +8,7 @@ jss.setup(preset())
 const styles = {
   '@global': {
     body: {
-      color: 'green'
+      color: 'red'
     },
     a: {
       textDecoration: 'underline'
